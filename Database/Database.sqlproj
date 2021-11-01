@@ -68,5 +68,11 @@
     <Build Include="Schema\Exp.sql" />
     <Build Include="Exp\Tables\Empleado.sql" />
     <Build Include="Dbo\Tables\Provincia.sql" />
+    <Build Include="Dbo\Tables\Canton.sql" />
+    <Build Include="Dbo\Tables\Distrito.sql" />
+    <Build Include="Exp\StoredProcedure\EmpleadoActualizar.sql" />
+    <Build Include="Exp\StoredProcedure\EmpleadoEliminar.sql" />
+    <Build Include="Exp\StoredProcedure\EmpleadoInsertar.sql" />
+    <Build Include="Exp\StoredProcedure\EmpleadoObtener.sql" />
   </ItemGroup>
 </Project>
